@@ -1,0 +1,25 @@
+{
+  "name": "Kept Chain",
+  "chain": "KEPT",
+  "rpc": [
+    "https://node.keptwallet.org"
+  ],
+  "faucets": ["https://faucets.keptwallet.org"],
+  "nativeCurrency": {
+    "name": "KEPT",
+    "symbol": "KEPT",
+    "decimals": 18
+  },
+  "infoURL": "https://keptwallet.org",
+  "shortName": "Kept",
+  "chainId": 184600,
+  "networkId": 184600,
+  "slip44": 1,
+  "explorers": [
+    {
+      "name": "Kept Block Explorer",
+      "url": "https://node.keptwallet.org",
+      "standard": "none"
+    }
+  ]
+}
